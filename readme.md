@@ -1,14 +1,15 @@
 
 # José Luis
 
-Olá! Me chamo José Luis, tenho 25 anos e atuo com Gestão de Pessoas na área de Suporte Técnico.   
-Estou embarcando na área de programação, e compartilharei aqui alguns projetos.
+Olá! Me chamo José Luis, tenho 26 anos e atuo com Gestão de Pessoas na área de Suporte Técnico.   
+Estou embarcando na área de programação e compartilharei aqui alguns projetos.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseluisteodoro&show_icons=true&theme=transparent)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisteodoro&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📖 Tecnologias em estudo
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white).
 
 ## 💻Ferramentas e Tecnologias conhecidas
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
